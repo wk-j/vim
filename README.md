@@ -1,6 +1,6 @@
 ## Vim
 
-Delete all lines which contain the string "/*"
+Delete all lines which contain the string `log`
 
 ```
 :g/log/d
@@ -10,7 +10,7 @@ Delete all lines which contain the string "/*"
 - `log` pattern
 - `d` the ex command delete
 
-Delete all lines which not contain the string "log"
+Delete all lines which not contain the string `log`
 
 ```
 :g!/log/d
