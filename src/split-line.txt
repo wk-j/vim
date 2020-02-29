@@ -1,0 +1,17 @@
+qq f<space>r <enter> q 8@q
+
+
+We can select the original yanked text with
+
+We
+can
+select
+the
+original
+yanked
+text
+with
+
+
+
+
